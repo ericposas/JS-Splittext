@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Eq';
+  src: url(../font/009ca0b5de5d5764640a820b26334fd9.woff);
+}
+
+html,
+body{
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  background-color: darkturquoise;
+  color: #fff;
+}
+
+div{
+  font-family: 'Eq';
+}
+
