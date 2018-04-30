@@ -1,5 +1,5 @@
 /********************************************
-JS SPLITEXT TOOL
+JS SPLITTEXT TOOL
 written by: Eric Posas, ericposas06@gmail.com
 *********************************************/
 
