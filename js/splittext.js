@@ -1,3 +1,8 @@
+/********************************************
+JS SPLITEXT TOOL
+written by: Eric Posas, ericposas06@gmail.com
+*********************************************/
+
 var T = TweenLite;
 var TL = TimelineLite;
 var log = console.log;
